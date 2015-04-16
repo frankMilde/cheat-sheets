@@ -5,7 +5,7 @@ Todo
 ----
 - When the list grows maybe sort after topics?
 
-#### Replace content across files
+### Replace content across files
 `ack -l "search" | xargs sed -i 's/search/replace/g'`
 
 ### Generate diffs
